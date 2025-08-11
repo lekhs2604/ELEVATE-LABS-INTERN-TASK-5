@@ -1,0 +1,2 @@
+# ELEVATE-LABS-INTERN-TASK-5
+EDA: By using jupyter notebook, this visual and statistical exploration has done. Library and dataset has imported. Some visuals like scatterplot, boxplot and histogram is created, as well as analysis is required. By this relationship between variables is analysed. Visualization is required from matplotlib and seaborn received a good analytical  
